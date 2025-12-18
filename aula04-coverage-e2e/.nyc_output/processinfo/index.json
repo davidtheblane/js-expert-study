@@ -1,0 +1,1 @@
+{"processes":{"0e5ea424-ae6c-42fd-8523-fd321ed00cfb":{"parent":null,"children":["4801c3a6-9ff9-47a8-9001-5d4f1d15d970"]},"4801c3a6-9ff9-47a8-9001-5d4f1d15d970":{"parent":"0e5ea424-ae6c-42fd-8523-fd321ed00cfb","children":[]}},"files":{"/home/davi/Documentos/Projetos/JS_EXPERT/js-expert-study/aula04-coverage-e2e/api.js":["4801c3a6-9ff9-47a8-9001-5d4f1d15d970"]},"externalIds":{}}
