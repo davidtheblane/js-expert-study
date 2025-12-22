@@ -1,0 +1,16 @@
+[
+  {
+    "id": "17d4ccba-c81f-4696-bf3f-82115c972d3d",
+    "name": "Explorer",
+    "realeaseYear": 2025,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5b5265c1-cef4-44ea-a6fb-63ac4a7534bf",
+    "name": "Golf",
+    "realeaseYear": 2025,
+    "available": true,
+    "gasAvailable": true
+  }
+]
