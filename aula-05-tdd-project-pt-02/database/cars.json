@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a6dd2526-1e46-4b86-b81d-8d42bb35701c",
+    "name": "XC90",
+    "realeaseYear": 2025,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c5be7f03-91b1-4759-8668-f7bd359090b3",
+    "name": "Beetle",
+    "realeaseYear": 2025,
+    "available": true,
+    "gasAvailable": true
+  }
+]
